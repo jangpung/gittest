@@ -4,6 +4,6 @@
 public class intellij {
 
     static public void main(String[] args) throws Exception{
-        System.out.print("tt");
+        System.out.print("tt+");
     }
 }
